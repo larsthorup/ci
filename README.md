@@ -1,5 +1,6 @@
 # larsthorup/ci
 
+[](http://larsthorup.github.io/ci/)
 
 project | source | release | build | coverage | dependencies | devDependencies | platform | test | module 
 ------- | ----- | ----- | ----- | -------- | ------------ | --------------- | -------- | ---- | ------ 
