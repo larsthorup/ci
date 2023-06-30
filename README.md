@@ -27,12 +27,8 @@ project | source | release | build | coverage | dependencies | platform | test |
 [sju.xpqf.com](https://gitlab.com/fullstackagile/sju.xpqf.com/) | ![Latest commit](https://img.shields.io/badge/dynamic/json?logo=gitlab&color=green&label=&query=committed_date&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2Ffullstackagile%252Fsju.xpqf.com%2Frepository%2Fcommits%2Fmaster) | n/a | [![Build Status](https://img.shields.io/gitlab/pipeline/fullstackagile/sju.xpqf.com?label=)](https://gitlab.com/fullstackagile/sju.xpqf.com/pipelines) | n/a | n/a | NodeJS | Puppeteer | CommonJS
 [testrunner](https://github.com/larsthorup/testrunner) | ![Latest commit](https://img.shields.io/github/last-commit/larsthorup/testrunner?label=) | n/a | [![Build Status](https://github.com/larsthorup/testrunner/actions/workflows/ci.yml/badge.svg)](https://github.com/larsthorup/testrunner/actions/workflows/ci.yml) | n/a | n/a | JavaScript | self | ESM
 [vite-sandbox](https://github.com/larsthorup/vite-sandbox) | ![Latest commit](https://img.shields.io/github/last-commit/larsthorup/vite-sandbox?label=) | n/a | [![Build Status](https://github.com/larsthorup/testrunner/actions/workflows/ci.yml/badge.svg)](https://github.com/larsthorup/testrunner/actions/workflows/ci.yml) | n/a | n/a | JavaScript | Mocha | ESM
-[vitest-fixture](https://github.com/larsthorup/vitest-fixture) | ![Latest commit](https://img.shields.io/github/last-commit/larsthorup/vitest-fixture?label=) | [![npm version](https://img.shields.io/npm/v/vitest-fixture)](https://www.npmjs.com/package/vitest-fixture) | [![Build Status](https://github.com/larsthorup/vitest-fixture/actions/workflows/ci.yml/badge.svg)](https://github.com/larsthorup/vitest-fixture/actions/workflows/ci.yml) | n/a | [![Dependency Status](https://img.shields.io/librariesio/release/npm/vitest-fixture/latest)](https://libraries.io/npm/vitest-fixture) | JavaScript | Vitest | ESM
+[vitest-fixture](https://github.com/larsthorup/vitest-fixture) | ![Latest commit](https://img.shields.io/github/last-commit/larsthorup/vitest-fixture?label=) | [![npm version](https://img.shields.io/npm/v/vitest-fixture)](https://www.npmjs.com/package/vitest-fixture) | [![Build Status](https://github.com/larsthorup/vitest-fixture/actions/workflows/ci.yml/badge.svg)](https://github.com/larsthorup/vitest-fixture/actions/workflows/ci.yml) | [![Coverage Status](https://img.shields.io/coveralls/github/larsthorup/vitest-fixture?label=)](https://coveralls.io/r/larsthorup/vitest-fixture?branch=main) | [![Dependency Status](https://img.shields.io/librariesio/release/npm/vitest-fixture/latest)](https://libraries.io/npm/vitest-fixture) | JavaScript | Vitest | ESM
 
-
-## TODO
-
-- [ ] publish vitest coverage
 
 ## Chores
 
