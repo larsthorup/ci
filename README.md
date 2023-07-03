@@ -30,9 +30,8 @@ project | source | release | build | coverage | dependencies | platform | test |
 
 ## Chores
 
-- Rebuild projects
-- Update deps
 - Add new projects (last: June 2023)
 - Remove obsolete projects (last: June 2023)
+- Update deps (last: June 2023)
 
 
